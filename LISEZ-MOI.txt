@@ -1,0 +1,1 @@
+MISE A JOUR V4 : masque plus fortement le faux bouton intégré dans l'illustration titre; les cinématiques affichent l'image entière sans couper le sujet, avec fond flouté plein écran. La voix automatique du navigateur reste désactivée. Publier les fichiers sur le même site Netlify du jeu, pas sur le calendrier.
